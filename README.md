@@ -1,5 +1,5 @@
 # basic_loc_project
-CS4800 - Project 1 (LOC)
+CS4800 - Mini Project 1 (LOC)
 
 LOC Counter
   - Count lines of code
