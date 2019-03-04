@@ -60,6 +60,6 @@ def gui_front():
 # Add feature later that will ask if you would like to run again?
 # 2/24/19
 
-# Call variable
+# Call function
 gui_front()
 
